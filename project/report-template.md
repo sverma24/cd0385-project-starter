@@ -17,7 +17,7 @@ TODO: After adding a new feature, kaggle submission score improved from 1.84007 
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
-TODO: Despite following the autogluon documentations, There were errors in tuning hyperparameter tuning. There seems to be problems with the Autogluon library or the documentation is too outdated.
+TODO: Despite following the autogluon documentations, There were errors in tuning hyperparameter tuning. Despite spending hours to troubleshooting the error over the web and several hit and trials, there was no solution found. There seems to be problems with the Autogluon library or the documentation is too outdated.
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
 TODO: I would spend more time in exploring more features to add for model training, like months, weekdays etc
